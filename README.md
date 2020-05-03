@@ -5,7 +5,7 @@ Useful sites for indie game devs.
 Assets
 
 * Art
-  * https://kenney.nl/assets
+  * [Kenney](https://kenney.nl/assets)
   * https://www.reinerstilesets.de/
   * https://game-icons.net/
   * https://craftpix.net/
