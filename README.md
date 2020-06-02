@@ -84,49 +84,49 @@ Tutorials
 
 General/flexible paint programs:
 
-Quadtastic - A tool to manage sprite sheets and color palettes.
-Heavypaint - A phone app for graphic painting.
-Tuxpaint - A KidPix-like: free computer art software for children. 
-Noodle - A minimalist experimental drawing tool (controls in the console.)
-JSPaint - Microsoft Paint for the browser, more or less.
-Krita - A free & open source painting program.
-GIMP - The GNU Image Manipulation Program. 
-Glimpse - Open source image editor based on the GNU Image Manipulation Program.
-Paint.net - Image and photo editing software for PCs that run Windows.
-Fire Alpaca - Simple and easy, light performance image editor
+* Quadtastic - A tool to manage sprite sheets and color palettes.
+* Heavypaint - A phone app for graphic painting.
+* Tuxpaint - A KidPix-like: free computer art software for children. 
+* Noodle - A minimalist experimental drawing tool (controls in the console.)
+* JSPaint - Microsoft Paint for the browser, more or less.
+* Krita - A free & open source painting program.
+* GIMP - The GNU Image Manipulation Program. 
+* Glimpse - Open source image editor based on the GNU Image Manipulation Program.
+* Paint.net - Image and photo editing software for PCs that run Windows.
+* Fire Alpaca - Simple and easy, light performance image editor
 Pixel art:
 
-pixeldudesmaker - What it sounds like - generates little pixel dudes.
-Pixelorama - Free & open-source 2D sprite editor with layers.
-dpixel - An odd pixel art remastering tool - pixels go in, smoothed images come out.
-Sink's Fun Pack - Mostly a paint tool but also a level editor!
-Nasu - A tool for making NES sprites.
-Piskel - Web-based editor for sprites, spritesheets.
-Aseprite - Animated sprite editor & pixel tool
+* pixeldudesmaker - What it sounds like - generates little pixel dudes.
+* Pixelorama - Free & open-source 2D sprite editor with layers.
+* dpixel - An odd pixel art remastering tool - pixels go in, smoothed images come out.
+* Sink's Fun Pack - Mostly a paint tool but also a level editor!
+* Nasu - A tool for making NES sprites.
+* Piskel - Web-based editor for sprites, spritesheets.
+* Aseprite - Animated sprite editor & pixel tool
 Vector:
 
-cozyvec - A terminal program for creating plotter art (SVG files) in javascript.
-Dotgrid - A grid-based vector drawing software designed to create logos, icons and type.
-Inkscape - A free, open-source, cross-platform vector graphics editor.
-https://www.nodebox.net/ - a cross-platform tool to create generative vector graphics
+* cozyvec - A terminal program for creating plotter art (SVG files) in javascript.
+* Dotgrid - A grid-based vector drawing software designed to create logos, icons and type.
+* Inkscape - A free, open-source, cross-platform vector graphics editor.
+* https://www.nodebox.net/ - a cross-platform tool to create generative vector graphics
 Sound & music:
 
 Tools for sound effects, music, and general audio. 
 
 Sound effects generators:
 
-Bfxr - Sound effect editor that is based on sfxr.
-rFXGen - Also sound effects, based on sfxr.
-evosfxr - Also sound effects, also based on sfxr, with ~evolution~. 
-as3sxfr - S/A.
-sfxr - The original sound generator these are based on.
-GB SFX Generator - A small tool for creating authentic Game Boy sound effects.
-Chiptone - A free tool for generating sound effects in the browser.
-Freesound.org - A collection of CC-licensed sound effects.
+* Bfxr - Sound effect editor that is based on sfxr.
+* rFXGen - Also sound effects, based on sfxr.
+* evosfxr - Also sound effects, also based on sfxr, with ~evolution~. 
+* as3sxfr - S/A.
+* sfxr - The original sound generator these are based on.
+* GB SFX Generator - A small tool for creating authentic Game Boy sound effects.
+* Chiptone - A free tool for generating sound effects in the browser.
+* Freesound.org - A collection of CC-licensed sound effects.
 Sound editors:
 
 Paulstretch - A program for extreme audio stretching. Make choruses and ambient tones.
-Audacity - The free software for recording and editing sounds.
-AudioSculpt - A visual approach to modifying a sound file.
-Reaper - Digital audio workstation
-Cecilia - Audio signal processing environment for mangling sound.
+* Audacity - The free software for recording and editing sounds.
+* AudioSculpt - A visual approach to modifying a sound file.
+* Reaper - Digital audio workstation
+* Cecilia - Audio signal processing environment for mangling sound.
